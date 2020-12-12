@@ -1,3 +1,5 @@
+This is a Next.js application demonstrating the importance of Search Engine Optimizations and Accessibility.
+
 ## Getting Started
 
 First, run the development server:
